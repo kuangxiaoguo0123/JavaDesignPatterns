@@ -79,5 +79,5 @@ public enum EnumInstance {
 ```
 # Sample source code
 [https://github.com/kuangxiaoguo0123/JavaDesignPatterns](https://github.com/kuangxiaoguo0123/JavaDesignPatterns)
-# Link
+# Reference link
 [https://gof.quanke.name](https://gof.quanke.name)
