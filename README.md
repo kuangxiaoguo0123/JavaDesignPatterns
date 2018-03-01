@@ -1,5 +1,5 @@
 # JavaDesignPatterns
-24 java design pattern examples.
+24 Java design pattern examples.
 # Singleton
 5 ways to get single instance.
 >- 饿汉式
