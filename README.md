@@ -2,7 +2,7 @@
 24 Java design pattern examples.
 # Singleton
 5 ways to get single instance.
->- 饿汉式
+> 饿汉式
 ```
 public class HungryInstance {
 
@@ -16,7 +16,7 @@ public class HungryInstance {
     }
 }
 ```
->- 懒汉式
+> 懒汉式
 ```
 public class LazyInstance {
 
@@ -33,7 +33,7 @@ public class LazyInstance {
     }
 }
 ```
->- 内部类
+> 内部类
 ```
 public class InnerClassInstance {
 
@@ -49,7 +49,7 @@ public class InnerClassInstance {
     }
 }
 ```
->- 双重加锁
+> 双重加锁
 ```
 public class DoubleCheckInstance {
 
@@ -70,7 +70,7 @@ public class DoubleCheckInstance {
     }
 }
 ```
->- 枚举
+> 枚举
 ```
 public enum EnumInstance {
 
