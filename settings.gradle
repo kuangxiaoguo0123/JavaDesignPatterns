@@ -1,1 +1,1 @@
-include ':app', ':singleton', ':observer', ':strategy'
+include ':app', ':singleton', ':observer', ':strategy', ':factory-method'
