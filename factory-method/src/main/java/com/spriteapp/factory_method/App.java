@@ -1,6 +1,7 @@
 package com.spriteapp.factory_method;
 
 /**
+ * 工厂方法模式
  * Created by kuangxiaoguo on 2018/3/2.
  */
 
