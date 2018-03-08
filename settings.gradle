@@ -1,1 +1,2 @@
-include ':app', ':singleton', ':observer', ':strategy', ':factory-method', ':abstract-factory'
+include ':app', ':singleton', ':observer', ':strategy', ':factory-method', ':abstract-factory',
+        ':composite'
