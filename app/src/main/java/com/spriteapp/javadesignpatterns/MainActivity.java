@@ -11,11 +11,18 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        testSimpleFactory();
+        testDecorator();
     }
 
     /**
-     * 简单工厂
+     * 装饰着模式
+     */
+    private void testDecorator() {
+        com.spriteapp.decorator.App.test();
+    }
+
+    /**
+     * 简单工厂模式
      */
     private void testSimpleFactory() {
         com.spriteapp.simple_factory.App.test();
