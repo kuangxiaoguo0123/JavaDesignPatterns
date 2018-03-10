@@ -11,7 +11,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        testComposite();
+        testSimpleFactory();
+    }
+
+    /**
+     * 简单工厂
+     */
+    private void testSimpleFactory() {
+        com.spriteapp.simple_factory.App.test();
     }
 
     /**
